@@ -6,12 +6,12 @@
 > <a href=""><img src="/assets/img/phone.png" height="16px"/> + 55 (11) 94258-4307</a><br/>
 
 ### About
-<div style="text-align: justify">
+<p style="text-align: justify">
     B.ASc in Information Systems by ESPM - SP. Has keen interest in areas that 
     touch on fields of study such as astro and geostatistics, computational 
     physics and, through machine learning applications, analysis and 
     datasets pattern recognition.
-</div><br/>
+</p>
 
 ### Background
 - __B.ASc in [Information Systems by ESPM - SP](https://www.espm.br/graduacao/sao/sao-tech/)__
@@ -35,26 +35,25 @@
     </td></tr>  
     <tr>
       <td><small>Data Automation</small></td>
-      <td width="200"><small><small>pandas, requests, beautifulSoup and others</small></small></td>
+      <td width="220"><small><small>pandas, requests, beautifulSoup and others</small></small></td>
     </tr>
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="200"><small><small>pandas, numpy, matplotlib and seaborn</small></small></td>
+      <td width="220"><small><small>pandas, numpy, matplotlib and seaborn</small></small></td>
     </tr>
     <tr>
       <td><small>Data Augmentation</small></td>
-      <td width="200"><small><small>open-cv and numpy</small></small></td>
+      <td width="220"><small><small>open-cv and numpy</small></small></td>
     </tr>
     <tr>
       <td><small>Machine Learning</small></td>
-      <td width="200"><small><small>bayesian learn, k-nn, k-means, random forest, svm and others</small></small></td>
+      <td width="220"><small><small>bayesian learn, k-nn, k-means, random forest, svm and others</small></small></td>
     </tr>
     <tr>
       <td><small>Deep Learning</small></td>
-      <td width="200"><small><small>neural nets, gans, convnets</small></small></td>
+      <td width="220"><small><small>neural nets, gans, convnets</small></small></td>
     </tr>
 </table>
-<br/>
 <table>
     <tr><td colspan="2">
       Python
@@ -62,14 +61,13 @@
     </td></tr>
     <tr>
       <td><small>Web Dashboards</small></td>
-      <td width="200"><small><small>bootstrap, django and flask</small></small></td>
+      <td width="220"><small><small>bootstrap, django and flask</small></small></td>
     </tr>
     <tr>
       <td><small>Microservices</small></td>
-      <td width="200"><small><small>airflow, jenkins and unittests</small></small></td>
+      <td width="220"><small><small>airflow, jenkins and unittests</small></small></td>
     </tr>
 </table>
-<br/>
 <table>
     <tr><td colspan="2">
       R
@@ -77,14 +75,13 @@
     </td></tr>  
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="200"><small><small>built-in packages</small></small></td>
+      <td width="220"><small><small>built-in packages</small></small></td>
     </tr>
     <tr>
       <td><small>Machine Learning</small></td>
-      <td width="200"><small><small>k-nn, k-means, random forest and others</small></small></td>
+      <td width="220"><small><small>k-nn, k-means, random forest and others</small></small></td>
     </tr>
 </table>
-<br/>
 <table>
     <tr><td colspan="2">
       Julia
@@ -92,10 +89,9 @@
     </td></tr>  
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="200"><small><small>built-in packages</small></small></td>
+      <td width="220"><small><small>built-in packages</small></small></td>
     </tr>
 </table>
-<br/>
 <table>
     <tr><td colspan="2">
       SQL
@@ -103,11 +99,11 @@
     </td></tr>  
     <tr>
       <td><small>DML</small></td>
-      <td width="200"><small><small>select, insert, update and delete</small></small></td>
+      <td width="220"><small><small>select, insert, update and delete</small></small></td>
     </tr>
     <tr>
       <td><small>DDL</small></td>
-      <td width="200"><small><small>create, drop and alter</small></small></td>
+      <td width="220"><small><small>create, drop and alter</small></small></td>
     </tr>
 </table>
 
