@@ -126,11 +126,11 @@
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_nov/2017_</small>
 
-### Publications in Scientific Congress:
-- __7º SEMIC — [Artificial Neural Networks: Analysis of the Patterns of Choice of Areas of Expertise](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/0000aa/0000aa9d.pdf)__
+### Publications in Scientific Congresses:
+- __7º SEMIC — [ANN: Analysis of the Patterns of Choice of Areas of Expertise](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/0000aa/0000aa9d.pdf)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_oct/2018_</small>
     
-- __18º Congresso Nacional de Iniciação Científica — [Artificial Neural Networks: Analysis of the Patterns of Choice of Areas of Expertise](http://conic-semesp.org.br/anais/files/2018/trabalho-1000000246.pdf)__
+- __18º Congresso Nacional de Iniciação Científica — [ANN: Analysis of the Patterns of Choice of Areas of Expertise](http://conic-semesp.org.br/anais/files/2018/trabalho-1000000246.pdf)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_dec/2018_</small>
