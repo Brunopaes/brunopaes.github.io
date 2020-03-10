@@ -13,7 +13,6 @@
     physics and, through machine learning applications, analysis and 
     datasets pattern recognition.
 </div>
-<br>
 
 ## Background
 - __B.ASc in Information Systems by ESPM - SP__
