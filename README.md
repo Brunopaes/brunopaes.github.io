@@ -1,5 +1,3 @@
-> <title>Bruno Paes</title>
->
 > <h2>Bruno Paes</h2>
 > [brunopaes05@gmail.com](mailto:brunopaes05@gmail.com)<br/>
 > [bpaes@bloomberg.net](mailto:bpaes@bloomberg.net)<br/>
@@ -37,23 +35,23 @@
     </td></tr>  
     <tr>
       <td><small>Data Automation</small></td>
-      <td width="300"><small><small>pandas, requests, beautifulSoup and others</small></small></td>
+      <td width="350"><small><small>pandas, requests, beautifulSoup and others</small></small></td>
     </tr>
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="300"><small><small>pandas, numpy, matplotlib and seaborn</small></small></td>
+      <td width="350"><small><small>pandas, numpy, matplotlib and seaborn</small></small></td>
     </tr>
     <tr>
       <td><small>Data Augmentation</small></td>
-      <td width="300"><small><small>open-cv and numpy</small></small></td>
+      <td width="350"><small><small>open-cv and numpy</small></small></td>
     </tr>
     <tr>
       <td><small>Machine Learning</small></td>
-      <td width="300"><small><small>bayesian learn, k-nn, k-means, random forest, svm and others</small></small></td>
+      <td width="350"><small><small>bayesian learn, k-nn, k-means, random forest, svm and others</small></small></td>
     </tr>
     <tr>
       <td><small>Deep Learning</small></td>
-      <td width="300"><small><small>neural nets, gans, convnets</small></small></td>
+      <td width="350"><small><small>neural nets, gans, convnets</small></small></td>
     </tr>
 </table>
 <table>
@@ -63,11 +61,11 @@
     </td></tr>
     <tr>
       <td><small>Web Dashboards</small></td>
-      <td width="300"><small><small>bootstrap, django and flask</small></small></td>
+      <td width="350"><small><small>bootstrap, django and flask</small></small></td>
     </tr>
     <tr>
       <td><small>Microservices</small></td>
-      <td width="300"><small><small>airflow, jenkins and unittests</small></small></td>
+      <td width="350"><small><small>airflow, jenkins and unittests</small></small></td>
     </tr>
 </table>
 <table>
@@ -77,11 +75,11 @@
     </td></tr>  
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="300"><small><small>built-in packages</small></small></td>
+      <td width="350"><small><small>built-in packages</small></small></td>
     </tr>
     <tr>
       <td><small>Machine Learning</small></td>
-      <td width="300"><small><small>k-nn, k-means, random forest and others</small></small></td>
+      <td width="350"><small><small>k-nn, k-means, random forest and others</small></small></td>
     </tr>
 </table>
 <table>
@@ -91,7 +89,7 @@
     </td></tr>  
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="300"><small><small>built-in packages</small></small></td>
+      <td width="350"><small><small>built-in packages</small></small></td>
     </tr>
 </table>
 <table>
@@ -101,11 +99,11 @@
     </td></tr>  
     <tr>
       <td><small>DML</small></td>
-      <td width="300"><small><small>select, insert, update and delete</small></small></td>
+      <td width="350"><small><small>select, insert, update and delete</small></small></td>
     </tr>
     <tr>
       <td><small>DDL</small></td>
-      <td width="300"><small><small>create, drop and alter</small></small></td>
+      <td width="350"><small><small>create, drop and alter</small></small></td>
     </tr>
 </table>
 
@@ -133,6 +131,6 @@
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_oct/2018_</small>
     
-- __18º conic-semesp — [Artificial Neural Networks: Analysis of the Patterns of Choice of Areas of Expertise](http://conic-semesp.org.br/anais/files/2018/trabalho-1000000246.pdf)__
+- __18º Congresso Nacional de Iniciação Científica — [Artificial Neural Networks: Analysis of the Patterns of Choice of Areas of Expertise](http://conic-semesp.org.br/anais/files/2018/trabalho-1000000246.pdf)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_dec/2018_</small>
