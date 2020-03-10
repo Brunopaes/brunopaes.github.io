@@ -11,7 +11,7 @@
     touch on fields of study such as astro and geostatistics, computational 
     physics and, through machine learning applications, analysis and 
     datasets pattern recognition.
-</div>
+</div><br/>
 
 ### Background
 - __B.ASc in [Information Systems by ESPM - SP](https://www.espm.br/graduacao/sao/sao-tech/)__
@@ -35,23 +35,23 @@
     </td></tr>  
     <tr>
       <td><small>Data Automation</small></td>
-      <td width="60"><small><small>pandas, requests, beautifulSoup and others</small></small></td>
+      <td width="100"><small><small>pandas, requests, beautifulSoup and others</small></small></td>
     </tr>
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="60"><small><small>pandas, numpy, matplotlib and seaborn</small></small></td>
+      <td width="100"><small><small>pandas, numpy, matplotlib and seaborn</small></small></td>
     </tr>
     <tr>
       <td><small>Data Augmentation</small></td>
-      <td width="60"><small><small>open-cv and numpy</small></small></td>
+      <td width="100"><small><small>open-cv and numpy</small></small></td>
     </tr>
     <tr>
       <td><small>Machine Learning</small></td>
-      <td width="60"><small><small>bayesian learn, k-nn, k-means, random forest, svm and others</small></small></td>
+      <td width="100"><small><small>bayesian learn, k-nn, k-means, random forest, svm and others</small></small></td>
     </tr>
     <tr>
       <td><small>Deep Learning</small></td>
-      <td width="60"><small><small>neural nets, gans, convnets</small></small></td>
+      <td width="100"><small><small>neural nets, gans, convnets</small></small></td>
     </tr>
 </table>
 <table>
@@ -61,11 +61,11 @@
     </td></tr>
     <tr>
       <td><small>Web Dashboards</small></td>
-      <td width="60"><small><small>bootstrap, django and flask</small></small></td>
+      <td width="100"><small><small>bootstrap, django and flask</small></small></td>
     </tr>
     <tr>
       <td><small>Microservices</small></td>
-      <td width="60"><small><small>airflow, jenkins and unittests</small></small></td>
+      <td width="100"><small><small>airflow, jenkins and unittests</small></small></td>
     </tr>
 </table>
 <table>
@@ -75,11 +75,11 @@
     </td></tr>  
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="60"><small><small>built-in packages</small></small></td>
+      <td width="100"><small><small>built-in packages</small></small></td>
     </tr>
     <tr>
       <td><small>Machine Learning</small></td>
-      <td width="60"><small><small>k-nn, k-means, random forest and others</small></small></td>
+      <td width="100"><small><small>k-nn, k-means, random forest and others</small></small></td>
     </tr>
 </table>
 <table>
@@ -89,7 +89,7 @@
     </td></tr>  
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="60"><small><small>built-in packages</small></small></td>
+      <td width="100"><small><small>built-in packages</small></small></td>
     </tr>
 </table>
 <table>
@@ -99,11 +99,11 @@
     </td></tr>  
     <tr>
       <td><small>DML</small></td>
-      <td width="60"><small><small>select, insert, update and delete</small></small></td>
+      <td width="100"><small><small>select, insert, update and delete</small></small></td>
     </tr>
     <tr>
       <td><small>DDL</small></td>
-      <td width="60"><small><small>create, drop and alter</small></small></td>
+      <td width="100"><small><small>create, drop and alter</small></small></td>
     </tr>
 </table>
 
