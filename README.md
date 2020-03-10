@@ -1,12 +1,11 @@
-# Bruno Paes
-
-> [bruno.paes@acad.espm.br](mailto:bruno.paes@acad.espm.br)<br/>
+> <h2>Contact Info:</h2>
 > [brunopaes05@gmail.com](mailto:brunopaes05@gmail.com)<br/>
 > [bpaes@bloomberg.net](mailto:bpaes@bloomberg.net)<br/>
-> 
+>
 > <a href="http://linkedin.com/in/paesbh/" target="_blank"><img src="/assets/img/linkedin.png" height="16px"/>/brunopaes</a><br/>
+> <a href="" target="_blank"><img src="/assets/img/phone.png" height="16px"/> + 55 (11) 94258-4307</a><br/>
 
-## About
+### About
 <div style="text-align: justify">
     B.ASc in Information Systems by ESPM - SP. Has keen interest in areas that 
     touch on fields of study such as astro and geostatistics, computational 
