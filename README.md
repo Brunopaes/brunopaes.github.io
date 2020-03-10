@@ -133,6 +133,6 @@
     - <small>_oct/2018_</small>
     
 - __18º Congresso Nacional de Iniciação Científica — [Artificial Neural Networks: Analysis of the Patterns of Choice of Areas of Expertise](http://conic-semesp.org.br/anais/files/2018/trabalho-1000000246.pdf)__
-    - <small>_Article: Artificial Neural Networks: Analysis of the Patterns of Choice of Areas of Expertise_</small>
+    - <small>_Paper: Artificial Neural Networks: Analysis of the Patterns of Choice of Areas of Expertise_</small>
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_dec/2018_</small>
