@@ -27,7 +27,7 @@ Supported by:
 - ESPM Tech - Programming Contest Finals - trip costs
     - <small>nov/2017</small>
 
-- ICPC/Sociedade Brasileira de Computação - Programming Contest Finals - hospitality costs
+- ICPC/SBC - Programming Contest Finals - hospitality costs
     - <small>nov/2017</small>
 
 ### Areas of interest
