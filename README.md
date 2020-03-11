@@ -21,7 +21,7 @@ Supported by:
 - [ESPM SP](https://www.espm.br/vestibular/bolsas-e-beneficios/) - meritorious scholarship under registration number 11620317
     - <small>_from aug/2016 until jun/2020_</small>
 
-- [Escritório de projetos e apoio à pesquisa - ESPM](https://pesquisa.espm.br/pesquisa-espm/escritorio-projetos-apoio-a-pesquisa/)
+- [Escritório de projetos e apoio à pesquisa - EPAP-ESPM](https://pesquisa.espm.br/pesquisa-espm/escritorio-projetos-apoio-a-pesquisa/)
     - <small>_from aug/2017 until aug/2018_</small>
 
 ### Areas of interest
