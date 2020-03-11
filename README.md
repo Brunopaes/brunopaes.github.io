@@ -136,7 +136,7 @@
     - <small>_dec/2018_</small>
 
 ### Projects:
-- __[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa):__
+- __[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa)__
     - <small>_oct/2018_</small>
 
 - __[Asteroids Hazardousness: Machine Learning Binary Classification](https://github.com/Brunopaes/Asteroids_Nasa)__
@@ -146,4 +146,4 @@
     - <small>_from dec/2019 until jan/2020_</small>
 
 - __[TreeShrews - ANN Python modules](https://github.com/Brunopaes/mooncake)__
-    - <small>_mar/2019 -_</small>
+    - <small>_from mar/2019 until --_</small>
