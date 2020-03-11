@@ -165,5 +165,5 @@ Supported by:
     - <small>_from mar/2019 until jun/2020_</small>
 
 ### Publications:
-Curriculum Lattes<br/>
-<a href="http://lattes.cnpq.br/5724163564352003"><small>http://lattes.cnpq.br/5724163564352003</small></a>
+<p>Curriculum Lattes<br/>
+<a href="http://lattes.cnpq.br/5724163564352003"><small>http://lattes.cnpq.br/5724163564352003</small></a></p>
