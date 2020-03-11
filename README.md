@@ -23,6 +23,12 @@ Supported by:
 
 - [Escritório de projetos e apoio à pesquisa - EPAP-ESPM](https://pesquisa.espm.br/pesquisa-espm/escritorio-projetos-apoio-a-pesquisa/)
     - <small>_from aug/2017 until aug/2018_</small>
+    
+- ESPM Tech - Programming Contest Finals - trip costs
+    - <small>nov/2017</small>
+
+- ICPC/Sociedade Brasileira de Computação - Programming Contest Finals - hospitality costs
+    - <small>nov/2017</small>
 
 ### Areas of interest
 - Machine learning and artificial neural networks
@@ -125,11 +131,11 @@ Supported by:
     - <small>_from feb/2017 until aug/2018_</small>
 
 ### Extracurricular Activities:
-- __Programming Contest 2017 — Regional Phase__
+- __Programming Contest 2017 — [Regional Phase](http://maratona.ime.usp.br/hist/2017/prim-fase17/reports/detailedfinalscoreboard/#)__
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_sep/2017_</small>
     
-- __Programming Contest 2017 — Latin America Regional Contest (Brazilian Finals)__
+- __Programming Contest 2017 — [Latin America Regional Contest (Brazilian Finals)](http://maratona.ime.usp.br/hist/2017/resultados/resultadoLatam.pdf)__
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>_nov/2017_</small>
 
@@ -157,3 +163,7 @@ Supported by:
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
     - <small>_from mar/2019 until jun/2020_</small>
+
+### Publications:
+Curriculum Lattes
+<small>http://lattes.cnpq.br/5724163564352003</small>
