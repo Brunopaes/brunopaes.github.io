@@ -31,15 +31,18 @@ Supported by:
 - ICPC/SBC - Programming Contest Finals - hospitality costs
     - <small>nov/2017</small>
 
+### Professional Experience:
+- __Bloomberg LP — Global Data Intern__
+    - <small>_from oct/2018 until --_</small>
+
+- __SiliconLife — Artificial Intelligence Researcher - Part-Time__
+    - <small>_from feb/2020 until --_</small>
+
 ### Areas of interest
 - Machine learning and artificial neural networks
 - Computational vision
 - Pattern recognition
 - Fraud detection
-
-### Professional Experience:
-- __Bloomberg LP — Global Data Intern__
-    - <small>_from oct/2018 until --_</small> 
 
 ### Technical Skills:
 <table>
