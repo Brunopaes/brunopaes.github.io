@@ -1,4 +1,4 @@
-> <h2>Bruno Paes</h2>
+> <h2>Paes, B.</h2>
 > [brunopaes05@gmail.com](mailto:brunopaes05@gmail.com)<br/>
 > [bpaes@bloomberg.net](mailto:bpaes@bloomberg.net)<br/>
 >
