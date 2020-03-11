@@ -136,19 +136,14 @@
     - <small>_dec/2018_</small>
 
 ### Projects:
-- __[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa):_
-    - <small style="text-align: justify">Using data from Taarifa and the Tanzanian Ministry of Water, can a machine learning model predict which pumps are functional, which need some repairs, and which don't work at all? 
-    Predict one of these three classes based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.</small>
+- _[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa):_
     - <small>_oct/2018_</small>
 
 - __[Asteroids Hazardousness: Machine Learning Binary Classification](https://github.com/Brunopaes/Asteroids_Nasa)__
-    - <small style="text-align: justify">This machine learning project aims to classify, based on morphological and physical attributes, the Nasa's monitored asteroids hazardousness. This binary classification project was made in python 3.6. The classifiers were made with python's sklearn library, more specifically with the ensemble learning module. Following the market's consensus, the original dataset was splited in two subsets. One aimed in fitting the model (80% of the original dataset) and other aimed in predicting and validating the model assertiveness rate (20% of the original dataset).</small>
     - <small>_from oct/2018 until nov/2018_</small>
 
 - __[Picpay - Sherock_Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
-    - <small style="text-align: justify">This machine learning project aims on creating a financial fraud predictor. This project is part of PicPay´s technical challenge. As a final product, a report was designed to explain the problem, database, models and methodology. The given report could be find at ~/docs/relatory_non_editable.pdf.</small>
     - <small>_from dec/2019 until jan/2020_</small>
 
 - __[TreeShrews - ANN Python modules](https://github.com/Brunopaes/mooncake)__
-    - <small style="text-align: justify">This is an python's future-library for Artificial Neural Networks. This project is aimed on the development and maintenance of an ANN for classification problems. In the final article a classification scenario will be choosen and a benchmark with Keras/Tensorflow will be made.</small>
     - <small>_mar/2019 -_</small>
