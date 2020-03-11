@@ -2,8 +2,8 @@
 > [brunopaes05@gmail.com](mailto:brunopaes05@gmail.com)<br/>
 > [bpaes@bloomberg.net](mailto:bpaes@bloomberg.net)<br/>
 >
-> <a href="http://linkedin.com/in/paesbh/" target="_blank"><img src="/assets/img/linkedin.png" height="16px"/>/brunopaes</a><br/>
-> <a href=""><img src="/assets/img/phone.png" height="16px"/> + 55 (11) 94258-4307</a><br/>
+> <a href="http://linkedin.com/in/paesbh/" target="_blank"><img src="/assets/img/linkedin.png" height="16px"/> /brunopaes</a><br/>
+> <a href=""><img src="/assets/img/phone.png" height="16px"/> +55 (11) 94258-4307</a><br/>
 
 ### About
 <p style="text-align: justify">
@@ -16,6 +16,13 @@
 ### Background
 - __B.ASc in [Information Systems by ESPM - SP](https://www.espm.br/graduacao/sao/sao-tech/)__
     - <small>_from aug/2016 until jun/2020_</small>
+
+Supported by:
+- [ESPM SP](https://www.espm.br/vestibular/bolsas-e-beneficios/) - meritorious scholarship under registration number 11620317
+    - <small>_from aug/2016 to jun/2020_</small>
+
+- [EPAP](https://pesquisa.espm.br/pesquisa-espm/escritorio-projetos-apoio-a-pesquisa/)
+    - <small>_from aug/2017 to aug/2018_</small>
 
 ### Areas of interest
 - Machine learning and artificial neural networks
@@ -145,5 +152,8 @@
 - __[Picpay - Sherock_Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
     - <small>_from dec/2019 until jan/2020_</small>
 
-- __[TreeShrews - ANN Python modules](https://github.com/Brunopaes/mooncake)__
+- __[Mooncake - ANN Python modules](https://github.com/Brunopaes/mooncake)__
+    - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
+    - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
     - <small>_from mar/2019 until --_</small>
