@@ -19,10 +19,10 @@
 
 Supported by:
 - [ESPM SP](https://www.espm.br/vestibular/bolsas-e-beneficios/) - meritorious scholarship under registration number 11620317
-    - <small>_from aug/2016 to jun/2020_</small>
+    - <small>_from aug/2016 until jun/2020_</small>
 
-- [EPAP](https://pesquisa.espm.br/pesquisa-espm/escritorio-projetos-apoio-a-pesquisa/)
-    - <small>_from aug/2017 to aug/2018_</small>
+- [Escritório de projetos e apoio à pesquisa - ESPM](https://pesquisa.espm.br/pesquisa-espm/escritorio-projetos-apoio-a-pesquisa/)
+    - <small>_from aug/2017 until aug/2018_</small>
 
 ### Areas of interest
 - Machine learning and artificial neural networks
