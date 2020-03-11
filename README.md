@@ -32,7 +32,7 @@ Supported by:
 
 ### Professional Experience:
 - __Bloomberg LP — Global Data Intern__
-    - <small>_oct/2018 -_</small> 
+    - <small>_from oct/2018 until --_</small> 
 
 ### Technical Skills:
 <table>
@@ -156,4 +156,4 @@ Supported by:
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
-    - <small>_from mar/2019 until --_</small>
+    - <small>_from mar/2019 until jun/2020_</small>
