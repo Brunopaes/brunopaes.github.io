@@ -166,4 +166,4 @@ Supported by:
 
 ### Publications:
 Curriculum Lattes<br/>
-<small><a href="http://lattes.cnpq.br/5724163564352003">http://lattes.cnpq.br/5724163564352003</a></small>
+<a href="http://lattes.cnpq.br/5724163564352003"><small>http://lattes.cnpq.br/5724163564352003</small></a>
