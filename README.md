@@ -136,7 +136,7 @@
     - <small>_dec/2018_</small>
 
 ### Projects:
-- _[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa):_
+- __[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa):__
     - <small>_oct/2018_</small>
 
 - __[Asteroids Hazardousness: Machine Learning Binary Classification](https://github.com/Brunopaes/Asteroids_Nasa)__
