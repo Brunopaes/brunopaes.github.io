@@ -159,6 +159,12 @@ Supported by:
 - __[Asteroids Hazardousness: Machine Learning Binary Classification](https://github.com/Brunopaes/Asteroids_Nasa)__
     - <small>_from oct/2018 until nov/2018_</small>
 
+- __[Picpay - Sherock_Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
+    - <small>_from dec/2019 until jan/2020_</small>
+    
+- __[octoutils - python utils functions](https://github.com/Brunopaes/octoutils)__
+    - <small>_from mar/2019 until --_</small>
+
 - __[Mooncake - ANN Python modules](https://github.com/Brunopaes/mooncake)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
