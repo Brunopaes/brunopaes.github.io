@@ -159,10 +159,10 @@ Supported by:
 - __[Asteroids Hazardousness: Machine Learning Binary Classification](https://github.com/Brunopaes/Asteroids_Nasa)__
     - <small>_from oct/2018 until nov/2018_</small>
 
-- __[Picpay - Sherock_Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
-    - <small>_from dec/2019 until jan/2020_</small>
-    
-- __[octoutils - python utils functions](https://github.com/Brunopaes/octoutils)__
+- __[flerken](https://github.com/Brunopaes/flerken)__
+    - <small>_from mar/2019 until april/2019_</small>
+
+- __[utils - python utils functions](https://github.com/Brunopaes/utils)__
     - <small>_from mar/2019 until --_</small>
 
 - __[Mooncake - ANN Python modules](https://github.com/Brunopaes/mooncake)__
@@ -170,6 +170,12 @@ Supported by:
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
     - <small>_from mar/2019 until jun/2020_</small>
+
+- __[friday](https://github.com/Brunopaes/friday)__
+    - <small>_from may/2019 until jun/2019_</small>
+
+- __[Picpay - Sherock_Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
+    - <small>_from dec/2019 until jan/2020_</small>
 
 ### Publications:
 <p>Curriculum Lattes<br/>
