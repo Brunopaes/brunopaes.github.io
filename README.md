@@ -159,7 +159,7 @@ Supported by:
 - __[Asteroids Hazardousness: Machine Learning Binary Classification](https://github.com/Brunopaes/Asteroids_Nasa)__
     - <small>_from oct/2018 until nov/2018_</small>
 
-- __[Flerken](https://github.com/Brunopaes/flerken)__
+- __[Flerken - Avengers: Endgame premiere tickets monitor](https://github.com/Brunopaes/flerken)__
     - <small>_from mar/2019 until april/2019_</small>
 
 - __[Utils - python utils functions](https://github.com/Brunopaes/utils)__
@@ -171,7 +171,7 @@ Supported by:
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
     - <small>_from mar/2019 until jun/2020_</small>
 
-- __[Friday](https://github.com/Brunopaes/friday)__
+- __[Friday - Whatsapp personal assistant](https://github.com/Brunopaes/friday)__
     - <small>_from may/2019 until jun/2019_</small>
 
 - __[Picpay - Sherock_Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
