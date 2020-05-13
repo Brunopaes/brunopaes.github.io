@@ -52,7 +52,7 @@ Supported by:
     </td></tr>  
     <tr>
       <td><small>Data Automation</small></td>
-      <td width="350"><small><small>pandas, requests, beautifulSoup and others</small></small></td>
+      <td width="350"><small><small>requests, beautifulSoup and others</small></small></td>
     </tr>
     <tr>
       <td><small>Data Analysis and Processing</small></td>
