@@ -77,7 +77,7 @@ Supported by:
       <br/><small><i>Dev</i></small>
     </td></tr>
     <tr>
-      <td><small>Web Dashboards</small></td>
+      <td><small>Web Frameworks</small></td>
       <td width="350"><small><small>bootstrap, django and flask</small></small></td>
     </tr>
     <tr>
