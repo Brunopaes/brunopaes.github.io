@@ -3,7 +3,7 @@
 > [bpaes@bloomberg.net](mailto:bpaes@bloomberg.net)<br/>
 >
 > <a href="http://linkedin.com/in/paesbh/" target="_blank"><img src="/assets/img/linkedin.png" height="16px"/> /brunopaes</a><br/>
-> <a href=""><img src="/assets/img/phone.png" height="16px"/> +55 (11) 94258-4307</a><br/>
+> <a href="assets/files/cv,pdf"><img src="/assets/img/phone.png" height="16px"/> +55 (11) 94258-4307</a><br/>
 
 ### About
 <p style="text-align: justify">
@@ -130,26 +130,31 @@ Supported by:
     - <small>_from jul/2014 until jun/2016_</small>
 
 ### Research Projects:
-- __PIC - [Artificial Neural Networks: Academic profile inference](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/00009f/00009f2d.pdf)__
+- __PIC - [Artificial Neural Networks: Specialization Area Inference](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/00009f/00009f2d.pdf)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>[Conclusion Certificate](assets/files/pic.pdf) </small>
     - <small>_from feb/2017 until aug/2018_</small>
 
 ### Extracurricular Activities:
 - __Programming Contest 2017 — [Regional Phase](http://maratona.ime.usp.br/hist/2017/prim-fase17/reports/detailedfinalscoreboard/#)__
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>[Participation Certificate](assets/files/2017_CertificateTeamHonorable_SABFP_366114.pdf) </small>
     - <small>_sep/2017_</small>
     
 - __Programming Contest 2017 — [Latin America Regional Contest (Brazilian Finals)](http://maratona.ime.usp.br/hist/2017/resultados/resultadoLatam.pdf)__
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>[Honorable Mention](assets/files/2017_CertificateTeamHonorable_South_America_Brazil_400655.pdf) </small>
     - <small>_nov/2017_</small>
 
 ### Publications in Scientific Congresses:
 - __7º SEMIC — [ANN: Analysis of the Patterns of Choice of Areas of Expertise](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/0000aa/0000aa9d.pdf)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>[Presentation Certificate](assets/files/semic.pdf) </small>
     - <small>_oct/2018_</small>
     
 - __18º Congresso Nacional de Iniciação Científica — [ANN: Analysis of the Patterns of Choice of Areas of Expertise](http://conic-semesp.org.br/anais/files/2018/trabalho-1000000246.pdf)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>[Presentation Certificate](assets/files/conic.pdf) </small>
     - <small>_dec/2018_</small>
 
 ### Projects:
@@ -165,10 +170,11 @@ Supported by:
 - __[Utils - python utils functions](https://github.com/Brunopaes/utils)__
     - <small>_from mar/2019 until --_</small>
 
-- __[Mooncake - ANN Python modules](https://github.com/Brunopaes/mooncake)__
+- __[Mooncake: Improving the performance of predictors for detecting fraudulent transactions](https://github.com/Brunopaes/mooncake)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
+    - <small>_Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT%2005.29.pdf) </small>
     - <small>_from mar/2019 until jun/2020_</small>
 
 - __[Friday - Whatsapp personal assistant](https://github.com/Brunopaes/friday)__
