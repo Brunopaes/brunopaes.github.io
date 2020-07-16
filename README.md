@@ -15,7 +15,7 @@
 
 ### Background
 - __B.ASc in [Information Systems by ESPM - SP](https://www.espm.br/graduacao/sao/sao-tech/)__
-    - <small>GPA: 3.60/Overall Average Score: 8.91</small>
+    - <small>GPA: 3.60/Overall Average Score: 9.007</small>
     - <small>[Academic Record](assets/files/1DQR476O.pdf)</small>
     - <small>_from aug/2016 until jun/2020_</small>
 
