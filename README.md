@@ -3,7 +3,7 @@
 > [bpaes@bloomberg.net](mailto:bpaes@bloomberg.net)<br/>
 >
 > <a href="http://linkedin.com/in/paesbh/" target="_blank"><img src="/assets/img/linkedin.png" height="16px"/> /brunopaes</a><br/>
-> <a href="assets/files/cv,pdf"><img src="/assets/img/phone.png" height="16px"/> +55 (11) 94258-4307</a><br/>
+> <a href="assets/files/cv.pdf"><img src="/assets/img/phone.png" height="16px"/> +55 (11) 94258-4307</a><br/>
 
 ### About
 <p style="text-align: justify">
@@ -16,6 +16,7 @@
 ### Background
 - __B.ASc in [Information Systems by ESPM - SP](https://www.espm.br/graduacao/sao/sao-tech/)__
     - <small>_GPA: 3.60/Overall Average Score: 8.91_</small>
+    - <small>_[Academic Record](assets/files/1DQR476O.pdf)_</small>
     - <small>_from aug/2016 until jun/2020_</small>
 
 Supported by:
@@ -33,7 +34,7 @@ Supported by:
 
 ### Professional Experience:
 - __Bloomberg LP — Global Data Intern__
-    - <small>_from oct/2018 until --_</small>
+    - <small>_from oct/2018 until june/2020_</small>
 
 - __SiliconLife — Artificial Intelligence Researcher - Part-Time__
     - <small>_from feb/2020 until --_</small>
@@ -56,7 +57,7 @@ Supported by:
     </tr>
     <tr>
       <td><small>Data Analysis and Processing</small></td>
-      <td width="350"><small><small>pandas, numpy, matplotlib and seaborn</small></small></td>
+      <td width="350"><small><small>pandas, numpy, bqplot, matplotlib and seaborn</small></small></td>
     </tr>
     <tr>
       <td><small>Data Augmentation</small></td>
@@ -88,7 +89,7 @@ Supported by:
 <table>
     <tr><td colspan="2">
       R
-      <br/><small><i>Data Science</i></small>
+      <br/><small><i>Data Science and AI</i></small>
     </td></tr>  
     <tr>
       <td><small>Data Analysis and Processing</small></td>
@@ -174,7 +175,7 @@ Supported by:
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
-    - <small>_Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT%2005.29.pdf) </small>
+    - <small>_Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT%2006.18.pdf) </small>
     - <small>_from mar/2019 until jun/2020_</small>
 
 - __[Friday - Whatsapp personal assistant](https://github.com/Brunopaes/friday)__
