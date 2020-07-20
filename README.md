@@ -1,21 +1,22 @@
 > <h2>Paes, B.</h2>
 > [brunopaes05@gmail.com](mailto:brunopaes05@gmail.com)<br/>
-> [bpaes@bloomberg.net](mailto:bpaes@bloomberg.net)<br/>
+> [bruno.paes@acad.espm.br](mailto:bruno.paes@acad.espm.br)<br/>
 >
 > <a href="http://linkedin.com/in/paesbh/" target="_blank"><img src="/assets/img/linkedin.png" height="16px"/> /brunopaes</a><br/>
 > <a href="assets/files/cv.pdf"><img src="/assets/img/phone.png" height="16px"/> +55 (11) 94258-4307</a><br/>
 
 ### About
 <p style="text-align: justify">
-    B.ASc in Information Systems by ESPM - SP. Has keen interest in areas that 
-    touch on fields of study such as astro and geostatistics, computational 
-    physics and, through machine learning applications, analysis and 
-    datasets pattern recognition.
+    Degreed in B.ASc in Information Systems by ESPM-SP. Has keen interest in bio-inspired neural
+    computing, computational physics, geostatistics and pattern recognition. Strong background in areas as:
+    artificial intelligence, machine learning, deep learning, computer vision and, through data science
+    techniques, pattern recognition in complex datasets. Seeking to automate and extract data from the vast
+    majority of personal tasks.
 </p>
 
 ### Background
 - __B.ASc in [Information Systems by ESPM - SP](https://www.espm.br/graduacao/sao/sao-tech/)__
-    - <small>GPA: 3.60/Overall Average Score: 9.007</small>
+    - <small>GPA: 3.600/Overall Average Score: 9.007</small>
     - <small>[Academic Record](assets/files/1DQR476O.pdf)</small>
     - <small>_from aug/2016 until jun/2020_</small>
 
