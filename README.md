@@ -35,10 +35,10 @@ Supported by:
 
 ### Professional Experience:
 - __Bloomberg LP — Global Data Intern__
-    - <small>_from oct/2018 until feb/2020_</small>
+    - <small>_from oct/2018 until jan/2020_</small>
 
 - __SiliconLife — Artificial Intelligence Researcher__
-    - <small>_from feb/2020 until --_</small>
+    - <small>_from jan/2020 until --_</small>
 
 ### Areas of interest
 - Machine learning and artificial neural networks
