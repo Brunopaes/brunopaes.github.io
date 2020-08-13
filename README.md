@@ -35,9 +35,9 @@ Supported by:
 
 ### Professional Experience:
 - __Bloomberg LP — Global Data Intern__
-    - <small>_from oct/2018 until june/2020_</small>
+    - <small>_from oct/2018 until feb/2020_</small>
 
-- __SiliconLife — Artificial Intelligence Researcher - Part-Time__
+- __SiliconLife — Artificial Intelligence Researcher__
     - <small>_from feb/2020 until --_</small>
 
 ### Areas of interest
@@ -176,7 +176,7 @@ Supported by:
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
-    - <small>Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT%2006.18.pdf) </small>
+    - <small>Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT/PGT%2006.18.pdf) </small>
     - <small>_from mar/2019 until jun/2020_</small>
 
 - __[Friday - Whatsapp personal assistant](https://github.com/Brunopaes/friday)__
