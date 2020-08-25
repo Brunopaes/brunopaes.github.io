@@ -113,16 +113,56 @@ Supported by:
 </table>
 <table>
     <tr><td colspan="2">
-      SQL
+      SQL Databases
       <br/><small><i>Data Manipulation</i></small>
     </td></tr>  
     <tr>
-      <td><small>DML</small></td>
-      <td width="350"><small><small>select, insert, update and delete</small></small></td>
+      <td><small>DQL</small></td>
+      <td width="350"><small><small>select</small></small></td>
     </tr>
     <tr>
       <td><small>DDL</small></td>
       <td width="350"><small><small>create, drop and alter</small></small></td>
+    </tr>
+    <tr>
+      <td><small>DML</small></td>
+      <td width="350"><small><small>insert, update and delete</small></small></td>
+    </tr>
+</table>
+<table>
+    <tr><td colspan="2">
+      NoSQL Databases
+      <br/><small><i>Data Manipulation</i></small>
+    </td></tr>  
+    <tr>
+      <td><small>MongoDB</small></td>
+      <td width="350"><small><small> </small></small></td>
+    </tr>
+    <tr>
+      <td><small>Cassandra</small></td>
+      <td width="350"><small><small> </small></small></td>
+    </tr>
+</table>
+<table>
+    <tr><td colspan="2">
+      Cloud Computing
+      <br/><small><i>Data and Process Automation</i></small>
+    </td></tr>
+    <tr>
+      <td><small>Azure</small></td>
+      <td width="350"><small><small>Virtual Machines and Machine Learning APIs</small></small></td>
+    </tr>
+    <tr>
+      <td><small>AWS</small></td>
+      <td width="350"><small><small>EC2, Lambda and Machine Learning APIs</small></small></td>
+    </tr>
+    <tr>
+      <td><small>GCP</small></td>
+      <td width="350"><small><small>Machine Learning APIs</small></small></td>
+    </tr>
+    <tr>
+      <td><small>IBM Cloud</small></td>
+      <td width="350"><small><small>Watson Services</small></small></td>
     </tr>
 </table>
 
