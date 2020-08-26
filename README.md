@@ -199,7 +199,7 @@ Supported by:
     - <small>[Presentation Certificate](assets/files/conic.pdf) </small>
     - <small>_dec/2018_</small>
 
-### Projects:
+### Personal Projects:
 - __[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa)__
     - <small>_oct/2018_</small>
 
