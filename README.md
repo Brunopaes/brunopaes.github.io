@@ -2,8 +2,8 @@
 > [brunopaes05@gmail.com](mailto:brunopaes05@gmail.com)<br/>
 > [bruno.paes@acad.espm.br](mailto:bruno.paes@acad.espm.br)<br/>
 >
+> <a href=""><img src="/assets/img/discord.png" height="16px"/> Paes#1690</a><br/>
 > <a href="http://linkedin.com/in/paesbh/" target="_blank"><img src="/assets/img/linkedin.png" height="16px"/> /brunopaes</a><br/>
-> <a href="" target="_blank"><img src="/assets/img/discord.png" height="16px"/> Paes#1690</a><br/>
 > <a href=""><img src="/assets/img/phone.png" height="16px"/> +55 (11) 94258-4307</a><br/>
 
 ### About
