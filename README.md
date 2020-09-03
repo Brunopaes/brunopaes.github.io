@@ -41,7 +41,7 @@ Supported by:
 - __SiliconLife — Artificial Intelligence Researcher__
     - <small>_from feb/2020 until sep/2020_</small>
 
-- __Bank ABC — Junior Data Scientist__
+- __Bank ABC — Data Analyst__
     - <small>_from sep/2020 until --_</small>
 
 ### Areas of interest
