@@ -12,7 +12,7 @@
     computing, computational physics, geostatistics and pattern recognition. Strong background in areas as:
     artificial intelligence, machine learning, deep learning, computer vision and, through data science
     techniques, pattern recognition in complex datasets. Seeking to automate and extract data from the vast
-    majority of personal tasks.A
+    majority of personal tasks.
 </p>
 
 ### Background
