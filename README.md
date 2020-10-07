@@ -35,14 +35,14 @@ Supported by:
     - <small>nov/2017</small>
 
 ### Professional Experience:
-- __Bloomberg LP — Global Data Intern__
-    - <small>_from oct/2018 until feb/2020_</small>
+- __Banco ABC Brasil — Data Specialist__
+    - <small>_from sep/2020 until --_</small>
 
 - __SiliconLife — Artificial Intelligence Researcher__
     - <small>_from feb/2020 until sep/2020_</small>
 
-- __Bank ABC — Data Analyst__
-    - <small>_from sep/2020 until --_</small>
+- __Bloomberg LP — Global Data Intern__
+    - <small>_from oct/2018 until feb/2020_</small>
 
 ### Areas of interest
 - Machine learning and artificial neural networks
