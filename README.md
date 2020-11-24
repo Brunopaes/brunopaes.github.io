@@ -38,7 +38,7 @@ Supported by:
 - __Banco ABC Brasil — Data Specialist__
     - <small>_from sep/2020 until --_</small>
 
-- __Bloomberg LP — Global Data Intern__
+- __Bloomberg LP — Data Science Intern__
     - <small>_from oct/2018 until jun/2020_</small>
 
 ### Areas of interest
