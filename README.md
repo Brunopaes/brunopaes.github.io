@@ -35,7 +35,7 @@ Supported by:
     - <small>nov/2017</small>
 
 ### Professional Experience:
-- __Banco ABC Brasil — Data Scientist
+- __Banco ABC Brasil — Data Scientist__
     - <small>_from sep/2020 until --_</small>
 
 - __Bloomberg LP — Data Science Intern__
