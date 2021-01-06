@@ -46,6 +46,7 @@ Supported by:
 - Computational vision
 - Pattern recognition
 - Fraud detection
+- Data automation
 
 ### Technical Skills:
 <table>
@@ -159,7 +160,7 @@ Supported by:
     </tr>
     <tr>
       <td><small>GCP</small></td>
-      <td width="350"><small><small>Machine Learning APIs</small></small></td>
+      <td width="350"><small><small>BigQuery, Data Flow and Machine Learning APIs</small></small></td>
     </tr>
     <tr>
       <td><small>IBM Cloud</small></td>
@@ -177,14 +178,23 @@ Supported by:
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>[Conclusion Certificate](assets/files/pic.pdf) </small>
     - <small>_from feb/2017 until aug/2018_</small>
+ 
+- __[Mooncake: Improving the performance of predictors for detecting fraudulent transactions](https://github.com/Brunopaes/mooncake)__
+    - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
+    - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
+    - <small>Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT/PGT%2006.18.pdf) </small>
+    - <small>_from mar/2019 until jun/2020_</small>
 
 ### Extracurricular Activities:
 - __Programming Contest 2017 — [Regional Phase](http://maratona.ime.usp.br/hist/2017/prim-fase17/reports/detailedfinalscoreboard/#)__
+    - <small>Team: Array of Thrones </small>
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>[Participation Certificate](assets/files/2017_CertificateTeamHonorable_SABFP_366114.pdf) </small>
     - <small>_sep/2017_</small>
     
 - __Programming Contest 2017 — [Latin America Regional Contest (Brazilian Finals)](http://maratona.ime.usp.br/hist/2017/resultados/resultadoLatam.pdf)__
+    - <small>Team: Array of Thrones </small>
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>[Honorable Mention](assets/files/2017_CertificateTeamHonorable_South_America_Brazil_400655.pdf) </small>
     - <small>_nov/2017_</small>
@@ -201,6 +211,7 @@ Supported by:
     - <small>_dec/2018_</small>
 
 ### Personal Projects:
+
 - __[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa)__
     - <small>_oct/2018_</small>
 
@@ -210,20 +221,10 @@ Supported by:
 - __[Flerken - Avengers: Endgame premiere tickets monitor](https://github.com/Brunopaes/flerken)__
     - <small>_from mar/2019 until april/2019_</small>
 
-- __[Utils - python utils functions](https://github.com/Brunopaes/utils)__
-    - <small>_from mar/2019 until --_</small>
-
-- __[Mooncake: Improving the performance of predictors for detecting fraudulent transactions](https://github.com/Brunopaes/mooncake)__
-    - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
-    - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
-    - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
-    - <small>Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT/PGT%2006.18.pdf) </small>
-    - <small>_from mar/2019 until jun/2020_</small>
-
 - __[Friday - Whatsapp personal assistant](https://github.com/Brunopaes/friday)__
     - <small>_from may/2019 until jun/2019_</small>
 
-- __[Picpay - Sherock_Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
+- __[PicPay - Sherock Holmes](https://github.com/Brunopaes/picpay-sherock_holmes)__
     - <small>_from dec/2019 until jan/2020_</small>
 
 ### Publications:
