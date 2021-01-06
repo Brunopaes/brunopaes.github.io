@@ -56,7 +56,7 @@ Supported by:
     </td></tr>  
     <tr>
       <td><small>Data Automation</small></td>
-      <td width="350"><small><small>requests, beautifulSoup and others</small></small></td>
+      <td width="350"><small><small>requests, beautifulSoup, selenium and others</small></small></td>
     </tr>
     <tr>
       <td><small>Data Analysis and Processing</small></td>
@@ -174,7 +174,7 @@ Supported by:
     - <small>_from jul/2014 until jun/2016_</small>
 
 ### Research Projects:
-- __PIC - [Artificial Neural Networks: Specialization Area Inference](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/00009f/00009f2d.pdf)__
+- __[Artificial Neural Networks: Specialization Area Inference](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/00009f/00009f2d.pdf)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>[Conclusion Certificate](assets/files/pic.pdf) </small>
     - <small>_from feb/2017 until aug/2018_</small>
