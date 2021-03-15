@@ -183,7 +183,7 @@ Supported by:
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>Advisor and Thesis Commitee Member: [Prof. Dr. Humberto Sandmann](https://www.linkedin.com/in/hsandmann/) </small>
     - <small>Thesis Commitee Member: [Prof. Ms. Edson Sensato](https://www.linkedin.com/in/edson-sensato/) </small>
-    - <small>Academic Essay: [link](https://github.com/Brunopaes/mooncake/blob/master/docs/PGT/PGT%2006.18.pdf) </small>
+    - <small>Academic Essay: [link](http://bibliotecas.espm.br:8080/pergamumweb/vinculos/0000c0/0000c0a8.pdf) </small>
     - <small>_from mar/2019 until jun/2020_</small>
 
 ### Extracurricular Activities:
