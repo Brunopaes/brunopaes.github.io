@@ -210,6 +210,11 @@ Supported by:
     - <small>[Presentation Certificate](assets/files/conic.pdf) </small>
     - <small>_dec/2018_</small>
 
+- __24º SemeAD — [Machine Learning for Fraud Detection](https://login.semead.com.br/24semead/anais/arquivos/203.pdf?)__
+    - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
+    - <small>[Presentation Certificate](assets/files/semead2021.pdf) </small>
+    - <small>_nov/2021_</small>
+
 ### Personal Projects:
 
 - __[Taarifa Water Pumps: Machine Learning Classification](https://github.com/Brunopaes/Taarifa)__
