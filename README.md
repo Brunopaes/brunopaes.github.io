@@ -187,13 +187,13 @@ Supported by:
     - <small>_from mar/2019 until jun/2020_</small>
 
 ### Extracurricular Activities:
-- __Programming Contest 2017 — [Regional Phase](http://maratona.ime.usp.br/hist/2017/prim-fase17/reports/detailedfinalscoreboard/#)__
+- __Programming Contest 2017 — [Regional Phase (São Paulo)](http://maratona.ime.usp.br/hist/2017/prim-fase17/reports/detailedfinalscoreboard/#)__
     - <small>Team: Array of Thrones </small>
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>[Participation Certificate](assets/files/2017_CertificateTeamHonorable_SABFP_366114.pdf) </small>
     - <small>_sep/2017_</small>
     
-- __Programming Contest 2017 — [Latin America Regional Contest (Brazilian Finals)](http://maratona.ime.usp.br/hist/2017/resultados/resultadoLatam.pdf)__
+- __Programming Contest 2017 — [Latin America Phase (LatAm Finals)](http://maratona.ime.usp.br/hist/2017/resultados/resultadoLatam.pdf)__
     - <small>Team: Array of Thrones </small>
     - <small>Coach: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>[Honorable Mention](assets/files/2017_CertificateTeamHonorable_South_America_Brazil_400655.pdf) </small>
@@ -210,7 +210,7 @@ Supported by:
     - <small>[Presentation Certificate](assets/files/conic.pdf) </small>
     - <small>_dec/2018_</small>
 
-- __24º SemeAD — [Machine Learning for Fraud Detection](https://login.semead.com.br/24semead/anais/arquivos/203.pdf?)__
+- __24º SemeAd — [Machine Learning for Financial Fraud Detection](https://login.semead.com.br/24semead/anais/arquivos/203.pdf?)__
     - <small>Advisor: [Prof. Dr. Antonio Marcos Selmini](https://www.linkedin.com/in/marcos-selmini-5768191a/) </small>
     - <small>[Presentation Certificate](assets/files/semead2021.pdf) </small>
     - <small>_nov/2021_</small>
