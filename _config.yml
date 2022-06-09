@@ -1,6 +1,6 @@
 title: Bruno Paes
 logo: /assets/img/paes.jpg
-description:
-show_downloads: true
+description: <small>may 11, 2022<br>Florence, San Miniato al Monte</small>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
