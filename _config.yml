@@ -1,6 +1,6 @@
 title: Bruno Paes
 logo: /assets/img/paes.jpg
-description: <small>Machine Learning | Data Science | Python</small>
-show_downloads: false
+description:
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
