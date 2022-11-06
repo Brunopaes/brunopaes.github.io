@@ -8,7 +8,7 @@
 
 ### About
 <p style="text-align: justify">
-    Degreed in B.ASc in Information Systems by ESPM-SP. Has keen interest in bio-inspired neural
+    Degreed in B.ASc in Information Systems at ESPM-SP. Has keen interest in bio-inspired neural
     computing, computational physics, geostatistics and pattern recognition. Strong background in areas as:
     artificial intelligence, machine learning, deep learning, computer vision and, through data science
     techniques, pattern recognition in complex datasets. Seeking to automate and extract data from the vast
@@ -35,8 +35,11 @@ Supported by:
     - <small>nov/2017</small>
 
 ### Professional Experience:
-- __Banco ABC Brasil — Data Scientist__
-    - <small>_from sep/2020 until --_</small>
+- __Bloomberg LP — Data Analyst (Commodities & Energy)__
+    - <small>_from oct/2022 until -_</small>
+
+- __Banco ABC Brasil — Data Analyst (Credit & Risk)__
+    - <small>_from sep/2020 until oct/2022_</small>
 
 - __Bloomberg LP — Data Automation Intern__
     - <small>_from oct/2018 until jun/2020_</small>
@@ -45,7 +48,6 @@ Supported by:
 - Machine learning and artificial neural networks
 - Computational vision
 - Pattern recognition
-- Fraud detection
 - Data automation
 
 ### Technical Skills:
