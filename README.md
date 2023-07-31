@@ -8,9 +8,9 @@
 
 ### About
 <p style="text-align: justify">
-    Degreed in B.ASc in Information Systems at ESPM-SP. Has keen interest in bio-inspired neural
+    B.ASc. degree in Information Systems. Has keen interest in bio-inspired neural
     computing, computational physics, geostatistics and pattern recognition. Strong background in areas as:
-    artificial intelligence, machine learning, deep learning, computer vision and, through data science
+    machine learning, deep learning, computer vision and, through data science
     techniques, pattern recognition in complex datasets. Seeking to automate and extract data from the vast
     majority of personal tasks.
 </p>
