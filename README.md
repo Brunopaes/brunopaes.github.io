@@ -27,7 +27,7 @@ Supported by:
 
 - Escritório de projetos e apoio à pesquisa - [EPAP-ESPM](https://pesquisa.espm.br/pesquisa-espm/escritorio-projetos-apoio-a-pesquisa/)
     - <small>_from aug/2017 until aug/2018_</small>
-    
+
 - ESPM Tech - Programming Contest Finals - trip costs
     - <small>nov/2017</small>
 
@@ -35,14 +35,14 @@ Supported by:
     - <small>nov/2017</small>
 
 ### Professional Experience:
-- __Bloomberg LP — Data Analyst (Commodities & Energy)__
+- __Bloomberg LP — Data Engineer (Commodities & Energy)__
     - <small>_from oct/2022 until -_</small>
 
-- __Banco ABC Brasil — Data Analyst (Credit & Risk)__
-    - <small>_from sep/2020 until oct/2022_</small>
+- __Banco ABC Brasil — Data Engineer (Credit & Risk)__
+    - <small>_from feb/2020 until oct/2022_</small>
 
 - __Bloomberg LP — Data Automation Intern__
-    - <small>_from oct/2018 until jun/2020_</small>
+    - <small>_from oct/2018 until feb/2020_</small>
 
 ### Areas of interest
 - Machine learning and artificial neural networks
@@ -88,7 +88,7 @@ Supported by:
     </tr>
     <tr>
       <td><small>Microservices</small></td>
-      <td width="350"><small><small>airflow, jenkins and unittests</small></small></td>
+      <td width="350"><small><small>airflow, jenkins and pytest</small></small></td>
     </tr>
 </table>
 <table>
