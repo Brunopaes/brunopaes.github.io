@@ -35,10 +35,13 @@ Supported by:
     - <small>nov/2017</small>
 
 ### Professional Experience:
-- __Bloomberg LP — Data Engineer (Commodities & Energy)__
-    - <small>_from oct/2022 until -_</small>
+- __Bloomberg LP — Data Engineer (Alternative Investment Funds)__
+    - <small>_from mar/2025 until -_</small>
 
-- __Banco ABC Brasil — Data Engineer (Credit & Risk)__
+- __Bloomberg LP — Data Analyst (Commodities & Energy)__
+    - <small>_from oct/2022 until - mar/2025</small>
+
+- __Banco ABC Brasil — Data Analyst (Credit & Risk)__
     - <small>_from feb/2020 until oct/2022_</small>
 
 - __Bloomberg LP — Data Automation Intern__
